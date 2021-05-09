@@ -1,0 +1,45 @@
+#achievements i {
+    float:right;
+}
+
+.campus1 {
+    float: left;
+    padding: 5px;
+    border: 1px solid grey;
+    height: 500px;
+    width:100%;
+    text-align: center;
+}
+
+.campus1 img {
+    height:300px;
+    width:50%;
+    border-radius: 50px;
+}
+#a {
+    padding-bottom: 10px;
+}
+.movie {
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+.news {
+    margin-top: 15px;
+}
+.news img {
+    border-radius: 25px;
+    height: 250px;
+    width: 300px;
+}
+.book img {
+    height:300px;
+    width: 300px;
+    display: inline block;
+}
+.book {
+    cursor: pointer;
+}
